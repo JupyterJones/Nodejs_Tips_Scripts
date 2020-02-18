@@ -1,0 +1,33 @@
+{
+  "name": "nodejs_tips_scripts",
+  "version": "1.0.0",
+  "description": "Learning Nodejs using Jupyter Notebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JupyterJones/Nodejs_Tips_Scripts.git"
+  },
+  "keywords": [
+    "nodejs",
+    "jupyter",
+    "notebook",
+    "learning",
+    "javascript",
+    "lessons",
+    "nodejs",
+    "scripts",
+    "node"
+  ],
+  "author": "JackNorthrup JupyterJones lbry.toolbox@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JupyterJones/Nodejs_Tips_Scripts/issues"
+  },
+  "homepage": "https://github.com/JupyterJones/Nodejs_Tips_Scripts#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
