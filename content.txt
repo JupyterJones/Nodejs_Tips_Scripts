@@ -1,0 +1,9 @@
+
+"author": "JackNorthrup JupyterJones lbry.toolbox@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JupyterJones/Nodejs_Tips_Scripts/issues"
+  },
+  "homepage": "https://github.com/JupyterJones/Nodejs_Tips_Scripts#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"

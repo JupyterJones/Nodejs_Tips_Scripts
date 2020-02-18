@@ -28,6 +28,9 @@
   },
   "homepage": "https://github.com/JupyterJones/Nodejs_Tips_Scripts#readme",
   "dependencies": {
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mongodb": "^3.5.3",
+    "sqlite3": "^4.1.1"
   }
 }
